@@ -4,45 +4,45 @@ import projectThree from "../assets/project-3.png";
 
 const projects = {
   1: {
-    title: "SoMe Platform",
+    title: "Parallax 3D Website",
     image: projectOne,
     description: (
       <>
         <p>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          Explore a responsive 3D parallax website with an engaging opening animation. 
+          Designed for an immersive experience, it adapts seamlessly across all devices, providing stunning visuals and smooth interactions.
         </p>
       </>
     ),
-    github: "https://github.com",
-    demo: "https://netlify.com",
+    github: "https://github.com/Adam-Mj/3DParallax-Website.git",
+    demo: "https://github.com/Adam-Mj/3DParallax-Website.git",
   },
   2: {
-    title: "Productivity App",
+    title: "Portfolio Website",
     image: projectTwo,
     description: (
       <>
         <p>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          Explore my responsive portfolio showcasing work experience and education. 
+          Designed for seamless viewing on all devices, this site highlights my professional journey with engaging visuals and smooth interactions
         </p>
       </>
     ),
     github: "https://github.com",
-    demo: "https://netlify.com",
+    demo: "https://main--portfoliosadam.netlify.app/",
   },
   3: {
-    title: "Food Delivery App",
+    title: "Responsive Portfolio",
     image: projectThree,
     description: (
       <>
         <p>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          Discover my enhanced, responsive portfolio website, showcasing my work experience and education. 
+          Optimized for all devices, this site offers a visually stunning and seamless experience, highlighting my professional journey with engaging and dynamic interactions
         </p>
       </>
     ),
-    github: "https://github.com",
+    github: "https://github.com/Adam-Mj/React-Portfolio",
     demo: "https://netlify.com",
   },
 };
