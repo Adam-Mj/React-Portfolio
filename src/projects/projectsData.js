@@ -43,7 +43,7 @@ const projects = {
       </>
     ),
     github: "https://github.com/Adam-Mj/React-Portfolio",
-    demo: "https://netlify.com",
+    demo: "https://myprivateportfolioonline.netlify.app",
   },
 };
 
