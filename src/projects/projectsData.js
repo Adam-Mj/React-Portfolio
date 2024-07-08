@@ -15,7 +15,7 @@ const projects = {
       </>
     ),
     github: "https://github.com/Adam-Mj/3DParallax-Website.git",
-    demo: "https://github.com/Adam-Mj/3DParallax-Website.git",
+    demo: "https://netlify.com",
   },
   2: {
     title: "Portfolio Website",
@@ -28,7 +28,7 @@ const projects = {
         </p>
       </>
     ),
-    github: "https://github.com",
+    github: "https://github.com/Adam-Mj/Portfolio",
     demo: "https://main--portfoliosadam.netlify.app/",
   },
   3: {
