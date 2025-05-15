@@ -14,16 +14,6 @@ const subheadingsData = {
   ],
   2: [
     {
-      title: "2024 BootCamp",
-      content: (
-        <>
-          <p>
-            Full stack Developement
-          </p>
-        </>
-      ),
-    },
-    {
       title: "2017 Bachelors Degree",
       content: (
         <>
