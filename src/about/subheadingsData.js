@@ -44,21 +44,7 @@ const subheadingsData = {
                 Performed manual, regression, and exploratory testing
               </li>
               <li>
-                Created technical documentation for test processes and release checklists
-              </li>
-              <li>
                 Supported CI/CD pipeline setup and DevOps optimization
-              </li>
-              <li>
-                After ATLAS.ti's acquisition by Lumivero, expanded responsibilities to include quality assurance for
-                NVivo and Citavi software products<br/>
-              </li>
-              <li>
-                Conducted cross-platform testing and collaborated with new international QA teams
-              </li>
-              <li>
-                Designed and executed comprehensive manual test cases to optimize software functionality and
-                performance for both release and non-release versions<br/>
               </li>
             </ul>
           </p>
