@@ -42,13 +42,33 @@ const subheadingsData = {
           <p>
             <ul>
               <li>
-                Defect management and reporting by identifying, documenting and tracking software defects with Azure DevOps<br/>
+                Ensured software reliability through structured test planning, execution, and automation strategies<br/>
               </li>
               <li>
-                Collaboration and agile methodology by working closely with developers to ensure complete test coverage<br/>
+                Identified, documented, and tracked software defects using Azure DevOps / Jira<br/>
               </li>
               <li>
-                Test planning and execution by specializing in ensuring quality releases
+                Collaborated closely with developers and product managers in agile teams
+              </li>
+              <li>
+                Performed manual, regression, and exploratory testing
+              </li>
+              <li>
+                Created technical documentation for test processes and release checklists
+              </li>
+              <li>
+                Supported CI/CD pipeline setup and DevOps optimization
+              </li>
+              <li>
+                After ATLAS.ti's acquisition by Lumivero, expanded responsibilities to include quality assurance for
+                NVivo and Citavi software products<br/>
+              </li>
+              <li>
+                Conducted cross-platform testing and collaborated with new international QA teams
+              </li>
+              <li>
+                Designed and executed comprehensive manual test cases to optimize software functionality and
+                performance for both release and non-release versions<br/>
               </li>
             </ul>
           </p>
